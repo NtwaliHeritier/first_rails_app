@@ -1,24 +1,33 @@
-# README
+# First rails app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a simple rails crud app using scaffold. The purpose is to check that rails is installed correctly and to be able to deploy on Heroku.
 
-Things you may want to cover:
+## Built With
+-   Ruby
+-   Rails
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+To get a local copy of the repository please run the following commands on your terminal:
+    1. git clone https://github.com/NtwaliHeritier/first_rails_app
+    2. cd my_first_rails_app
+    
+## Live link
 
-* Configuration
+https://glacial-dawn-10396.herokuapp.com/
 
-* Database creation
+## Authors
+👤  **Ntwali Heritier**
 
-* Database initialization
+- Github: [@NtwaliHeritier](https://github.com/NtwaliHeritier)
+- Twitter: [@NtwaliHeritier](https://twitter.com/NtwaliHeritier)
+- Linkedin: [Ntwali Heritier](https://linkedin.com/in/ntwali-heritier-9950001a2)
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and feature requests are welcome!
 
-* Deployment instructions
+## Show your support
 
-* ...
+Give a ⭐️ if you like this project!
+
